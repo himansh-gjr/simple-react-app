@@ -2,7 +2,7 @@
 
 Learn the fundamentals of React including simple and class components, state, props, and submitting form data.
 
-### [View the demo](https://himanshu.github.io/simple-react-app) | [Read the tutorial](https://www.taniarascia.com/getting-started-with-react/)
+### [View the demo](https://himansh-gjr.github.io/simple-react-app/) | [Read the tutorial](https://www.taniarascia.com/getting-started-with-react/)
 
 ## Purpose
 
